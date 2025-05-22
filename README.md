@@ -74,14 +74,13 @@ CREATE TABLE IF NOT EXISTS sales (
 - Mockaro – Data generation  
 - ETL Concepts – Manual transformation and loading  
 
----
 
 ## 📉 Sales Insight Dashboard
 
 
 ![Screenshot 2025-05-22 193042](https://github.com/user-attachments/assets/1d8632b3-5fb3-4026-9ee8-0c5ecb4a5571)
 
----
+
 
 ## 💡 Insights Gained
 
