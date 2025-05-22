@@ -29,7 +29,7 @@ To extract, transform, store, and visualize sales data for business decision-mak
 
 ### ✅ Step 2: Database Setup (MySQL)
 
-sql
+```sql
 CREATE DATABASE IF NOT EXISTS sales_db;
 USE sales_db;
 
@@ -42,7 +42,7 @@ CREATE TABLE IF NOT EXISTS sales (
     customer_region VARCHAR(50),
     payment_method VARCHAR(50)
 );  
-
+```
 ## ✅ Step 3: Power BI Integration
 
 - Connected **Power BI** directly to the **MySQL** database  
@@ -50,6 +50,13 @@ CREATE TABLE IF NOT EXISTS sales (
 - Created dynamic visuals and interactive KPIs for effective data storytelling
 
 ---
+## 📉 Sample Dashboard
+
+![Screenshot 2025-05-22 193042](https://github.com/user-attachments/assets/502960d6-f1f4-4f36-a779-1b375f4c8b73)
+
+
+
+Interactive Power BI dashboard with filters, KPIs, and dynamic visuals
 
 ## 📊 Key KPIs and Visuals
 
@@ -104,10 +111,4 @@ CREATE TABLE IF NOT EXISTS sales (
 ## 🏷️ Tags
 
 `#PowerBI` `#SalesDashboard` `#DataVisualization` `#ProductAnalytics` `#SanthoshVoorugonda` `#InteractiveDashboard` `#BusinessIntelligence`
-
-## 🏷️ Tags
-
-
-![Screenshot 2025-05-22 193042](https://github.com/user-attachments/assets/362091b3-8e19-433c-9e3f-897727652646)
-
 
