@@ -50,7 +50,7 @@ CREATE TABLE IF NOT EXISTS sales (
 - Created dynamic visuals and interactive KPIs for effective data storytelling
 
 ---
-## 📉 Sample Dashboard
+## 📉 Sales Insight Dashboard
 
 ![Screenshot 2025-05-22 193042](https://github.com/user-attachments/assets/502960d6-f1f4-4f36-a779-1b375f4c8b73)
 
