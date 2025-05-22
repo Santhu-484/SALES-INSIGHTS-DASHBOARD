@@ -55,13 +55,13 @@ CREATE TABLE IF NOT EXISTS sales (
 
 | KPI                    | Description                                |
 |------------------------|--------------------------------------------|
-| **💰 Total Sales**     | SUM of all order values                    |
-| **📦 Total Orders**    | Count of orders                           |
-| **📈 Total Quantity**  | SUM of quantities sold                    |
-| **🌍 Sales by Region** | Performance by customer region            |
-| **🛒 Sales by Product**| Top-selling products                      |
-| **💳 Payment Methods** | Preferred payment methods                 |
-| **🕒 Sales Trend**     | Sales over time (Year/Quarter)            |
+| 💰 Total Sales         | SUM of all order values                    |
+| 📦 Total Orders        | Count of orders                           |
+| 📈 Total Quantity      | SUM of quantities sold                    |
+| 🌍 Sales by Region     | Performance by customer region            |
+| 🛒 Sales by Product    | Top-selling products                      |
+| 💳 Payment Methods     | Preferred payment methods                 |
+| 🕒 Sales Trend         | Sales over time (Year/Quarter)            |
 
 ---
 
@@ -78,17 +78,17 @@ CREATE TABLE IF NOT EXISTS sales (
 
 ## 📉 Sales Insight Dashboard
 
->
+
 ![Screenshot 2025-05-22 193042](https://github.com/user-attachments/assets/1d8632b3-5fb3-4026-9ee8-0c5ecb4a5571)
 
 ---
 
 ## 💡 Insights Gained
 
-- **Highest Sales**: Q1 2025 with over ₹37,000+  
-- **Top Product**: *Shoes*  
-- **Top Region**: *Northeast*  
-- **Popular Payment Methods**: *Bitcoin* and *Venmo*
+- Highest Sales: Q1 2025 with over ₹37,000+  
+- Top Product: Shoes
+- Top Region: Northeast  
+- Popular Payment Methods: Bitcoin and Venmo
 
 ---
 
