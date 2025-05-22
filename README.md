@@ -43,6 +43,8 @@ CREATE TABLE IF NOT EXISTS sales (
     payment_method VARCHAR(50)
 );  
 ```
+![Screenshot 2025-05-22 201052](https://github.com/user-attachments/assets/b8a17313-631b-4648-9135-ec77ef12c9fc)
+
 ## ✅ Step 3: Power BI Integration
 
 - Connected **Power BI** directly to the **MySQL** database  
