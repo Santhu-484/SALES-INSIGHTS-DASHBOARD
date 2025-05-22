@@ -29,7 +29,7 @@ To extract, transform, store, and visualize sales data for business decision-mak
 
 ### ✅ Step 2: Database Setup (MySQL)
 
-```sql
+sql
 CREATE DATABASE IF NOT EXISTS sales_db;
 USE sales_db;
 
@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS sales (
     price DECIMAL(10, 2),
     customer_region VARCHAR(50),
     payment_method VARCHAR(50)
-);
+);  
 
 ## ✅ Step 3: Power BI Integration
 
@@ -100,5 +100,14 @@ CREATE TABLE IF NOT EXISTS sales (
 - Add user segmentation and customer profiling  
 - Deploy dashboard via Power BI Service for real-time collaboration
 ---
-![Screenshot 2025-05-22 193042](https://github.com/user-attachments/assets/72ef29a0-3448-423c-aad6-fd059204d105)
+
+## 🏷️ Tags
+
+`#PowerBI` `#SalesDashboard` `#DataVisualization` `#ProductAnalytics` `#SanthoshVoorugonda` `#InteractiveDashboard` `#BusinessIntelligence`
+
+## 🏷️ Tags
+
+
+![Screenshot 2025-05-22 193042](https://github.com/user-attachments/assets/362091b3-8e19-433c-9e3f-897727652646)
+
 
