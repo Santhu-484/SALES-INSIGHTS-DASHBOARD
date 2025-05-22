@@ -55,24 +55,24 @@ CREATE TABLE IF NOT EXISTS sales (
 
 | KPI                    | Description                                |
 |------------------------|--------------------------------------------|
-| 💰 **Total Sales**     | SUM of all order values                    |
-| 📦 **Total Orders**    | Count of orders                           |
-| 📈 **Total Quantity**  | SUM of quantities sold                    |
-| 🌍 **Sales by Region** | Performance by customer region            |
-| 🛒 **Sales by Product**| Top-selling products                      |
-| 💳 **Payment Methods** | Preferred payment methods                 |
-| 🕒 **Sales Trend**     | Sales over time (Year/Quarter)            |
+| **💰 Total Sales**     | SUM of all order values                    |
+| **📦 Total Orders**    | Count of orders                           |
+| **📈 Total Quantity**  | SUM of quantities sold                    |
+| **🌍 Sales by Region** | Performance by customer region            |
+| **🛒 Sales by Product**| Top-selling products                      |
+| **💳 Payment Methods** | Preferred payment methods                 |
+| **🕒 Sales Trend**     | Sales over time (Year/Quarter)            |
 
 ---
 
 ## 🛠️ Tools & Technologies Used
 
-- **MySQL** – Relational database management  
-- **Power BI** – Data visualization & dashboarding  
-- **SQL** – Data manipulation and querying  
-- **DAX** – KPIs and calculated measures  
-- **Mockaroo** – Data generation  
-- **ETL Concepts** – Manual transformation and loading  
+- MySQL – Relational database management  
+- Power BI – Data visualization & dashboarding  
+- SQL – Data manipulation and querying  
+- DAX – KPIs and calculated measures  
+- Mockaro – Data generation  
+- ETL Concepts – Manual transformation and loading  
 
 ---
 
