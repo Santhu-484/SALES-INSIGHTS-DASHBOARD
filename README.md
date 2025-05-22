@@ -75,13 +75,6 @@ CREATE TABLE IF NOT EXISTS sales (
 - ETL Concepts – Manual transformation and loading  
 
 
-## 📉 Sales Insight Dashboard
-
-
-![Screenshot 2025-05-22 193042](https://github.com/user-attachments/assets/1d8632b3-5fb3-4026-9ee8-0c5ecb4a5571)
-
-
-
 ## 💡 Insights Gained
 
 - Highest Sales: Q1 2025 with over ₹37,000+  
@@ -105,4 +98,7 @@ CREATE TABLE IF NOT EXISTS sales (
 
 - Automate ETL using Python scripts or SSIS  
 - Add user segmentation and customer profiling  
-- Deploy dashboard via Power BI Service for real-time collaboration  
+- Deploy dashboard via Power BI Service for real-time collaboration
+
+![Screenshot 2025-05-22 193042](https://github.com/user-attachments/assets/72ef29a0-3448-423c-aad6-fd059204d105)
+
